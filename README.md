@@ -3,8 +3,7 @@
 **60+ battle-tested AI prompt templates for software developers.**  
 Stop writing prompts from scratch. Start getting results in seconds.
 
-[![npm version](https://img.shields.io/npm/v/@wireforge/prompt-templates.svg)](https://www.npmjs.com/package/@wireforge/prompt-templates)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![Prompts](https://img.shields.io/badge/Prompts-11-orange)
 
 > 💎 **Premium version** with 60+ prompts, video walkthroughs, Notion workspace, and monthly updates → [Get it on Gumroad →](https://srmcguirt.gumroad.com)
 
