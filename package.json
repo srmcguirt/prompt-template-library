@@ -1,0 +1,38 @@
+{
+  "name": "@aipackages/prompt-templates-dev",
+  "version": "1.0.0",
+  "description": "60+ battle-tested AI prompt templates for developers — code review, debugging, architecture, testing, and more",
+  "keywords": [
+    "ai",
+    "prompts",
+    "claude",
+    "gpt-4",
+    "llm",
+    "code-review",
+    "debugging",
+    "developer-tools",
+    "prompt-engineering",
+    "mcp"
+  ],
+  "author": "AI Packages",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "prompts/",
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "list": "node -e \"const p = require('.'); console.log(Object.keys(p.prompts).join('\\n'))\"",
+    "count": "node -e \"const p = require('.'); let n=0; Object.values(p.prompts).forEach(c => n += Object.keys(c).length); console.log(n + ' prompts')\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ai-packages/prompt-templates-dev"
+  },
+  "homepage": "https://github.com/ai-packages/prompt-templates-dev#readme",
+  "bugs": {
+    "url": "https://github.com/ai-packages/prompt-templates-dev/issues"
+  }
+}
