@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ai-packages/prompt-templates-dev"
+    "url": "https://github.com/srmcguirt/prompt-template-library"
   },
-  "homepage": "https://github.com/ai-packages/prompt-templates-dev#readme",
+  "homepage": "https://github.com/srmcguirt/prompt-template-library#readme",
   "bugs": {
-    "url": "https://github.com/ai-packages/prompt-templates-dev/issues"
+    "url": "https://github.com/srmcguirt/prompt-template-library/issues"
   }
 }
