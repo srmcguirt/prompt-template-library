@@ -1,5 +1,5 @@
 {
-  "name": "@aipackages/prompt-templates-dev",
+  "name": "@wireforge/prompt-templates",
   "version": "1.0.0",
   "description": "60+ battle-tested AI prompt templates for developers — code review, debugging, architecture, testing, and more",
   "keywords": [
@@ -14,7 +14,7 @@
     "prompt-engineering",
     "mcp"
   ],
-  "author": "AI Packages",
+  "author": "WireForge",
   "license": "MIT",
   "main": "index.js",
   "files": [
