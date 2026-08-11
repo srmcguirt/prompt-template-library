@@ -214,3 +214,11 @@ Found a better prompt? Spotted an improvement? PRs welcome.
 
 MIT — free for personal and open source use.  
 For commercial use (reselling, embedding in products), see the [Premium License on Gumroad](https://srmcguirt.gumroad.com).
+
+---
+
+## 📬 Stay Updated
+
+Get a free sample prompt + updates when new tools ship:
+
+**→ [srmcguirt.github.io](https://srmcguirt.github.io)**
