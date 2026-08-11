@@ -3,10 +3,10 @@
 **60+ battle-tested AI prompt templates for software developers.**  
 Stop writing prompts from scratch. Start getting results in seconds.
 
-[![npm version](https://img.shields.io/npm/v/@aipackages/prompt-templates-dev.svg)](https://www.npmjs.com/package/@aipackages/prompt-templates-dev)
+[![npm version](https://img.shields.io/npm/v/@wireforge/prompt-templates.svg)](https://www.npmjs.com/package/@wireforge/prompt-templates)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> 💎 **Premium version** with 60+ prompts, video walkthroughs, Notion workspace, and monthly updates → [Get it on Gumroad →](https://gumroad.com)
+> 💎 **Premium version** with 60+ prompts, video walkthroughs, Notion workspace, and monthly updates → [Get it on Gumroad →](https://srmcguirt.gumroad.com)
 
 ---
 
@@ -130,11 +130,11 @@ These templates were built over months of real-world use: hundreds of code revie
 ### Use as npm package
 
 ```bash
-npm install @aipackages/prompt-templates-dev
+npm install @wireforge/prompt-templates
 ```
 
 ```javascript
-const { prompts, extractPrompt, fill } = require('@aipackages/prompt-templates-dev');
+const { prompts, extractPrompt, fill } = require('@wireforge/prompt-templates');
 
 // Get the raw template (with instructions)
 const template = prompts.codeReview['deep-code-review'];
@@ -187,7 +187,7 @@ The npm package includes a curated starter set. The **Gumroad premium download**
 - ✅ Prompt chaining guide — how to combine prompts for complex workflows
 - ✅ License for commercial use (use in your products and services)
 
-**[Get the premium edition →](https://gumroad.com)**
+**[Get the premium edition →](https://srmcguirt.gumroad.com)**
 
 ---
 
@@ -214,4 +214,4 @@ Found a better prompt? Spotted an improvement? PRs welcome.
 ## License
 
 MIT — free for personal and open source use.  
-For commercial use (reselling, embedding in products), see the [Premium License on Gumroad](https://gumroad.com).
+For commercial use (reselling, embedding in products), see the [Premium License on Gumroad](https://srmcguirt.gumroad.com).
