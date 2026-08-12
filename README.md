@@ -1,6 +1,6 @@
 # 🧠 AI Prompt Template Library — Developer Edition
 
-**60+ battle-tested AI prompt templates for software developers.**  
+**60+ battle-tested AI prompt templates for software developers.** 
 Stop writing prompts from scratch. Start getting results in seconds.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![Prompts](https://img.shields.io/badge/Prompts-11-orange)
@@ -129,11 +129,11 @@ These templates were built over months of real-world use: hundreds of code revie
 ### Use as npm package
 
 ```bash
-npm install @wireforge/prompt-templates
+npm install @srmcguirt/prompt-templates
 ```
 
 ```javascript
-const { prompts, extractPrompt, fill } = require('@wireforge/prompt-templates');
+const { prompts, extractPrompt, fill } = require('@srmcguirt/prompt-templates');
 
 // Get the raw template (with instructions)
 const template = prompts.codeReview['deep-code-review'];
@@ -143,10 +143,10 @@ const promptText = extractPrompt(template);
 
 // Fill in your variables
 const ready = fill(promptText, {
-  'PASTE CODE HERE': myCode,
-  'Language/Framework': 'TypeScript/Next.js',
-  'Purpose of this code': 'User authentication middleware',
-  'Any known constraints': 'Must be backward compatible with v2 clients'
+ 'PASTE CODE HERE': myCode,
+ 'Language/Framework': 'TypeScript/Next.js',
+ 'Purpose of this code': 'User authentication middleware',
+ 'Any known constraints': 'Must be backward compatible with v2 clients'
 });
 
 // Now send `ready` to your Claude/OpenAI client
@@ -219,13 +219,13 @@ Found a better prompt? Spotted an improvement? PRs welcome.
 
 MIT licensed. No vendor lock-in. Works in Claude, GPT-4, and Cursor.
 
-→ [Full product lineup](https://wireforge.fellwork.workers.dev)
+→ [Full product lineup](https://srmcguirt.dev)
 
 ---
 
 ## License
 
-MIT — free for personal and open source use.  
+MIT — free for personal and open source use. 
 For commercial use (reselling, embedding in products), see the [Premium License on Gumroad](https://srmcguirt.gumroad.com).
 
 ---
@@ -234,4 +234,4 @@ For commercial use (reselling, embedding in products), see the [Premium License 
 
 Get a free sample prompt + updates when new tools ship:
 
-**→ [wireforge.fellwork.workers.dev](https://wireforge.fellwork.workers.dev)**
+**→ [srmcguirt.dev](https://srmcguirt.dev)**

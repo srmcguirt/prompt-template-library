@@ -1,5 +1,5 @@
 {
-  "name": "@wireforge/prompt-templates",
+  "name": "@srmcguirt/prompt-templates",
   "version": "1.1.0",
   "description": "32 battle-tested AI prompt templates for developers across 12 categories — code review, debugging, architecture, performance, database, API design, DevOps, and more",
   "keywords": [
