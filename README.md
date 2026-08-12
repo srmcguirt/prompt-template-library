@@ -1,6 +1,6 @@
 # 🧠 AI Prompt Template Library — Developer Edition
 
-**60+ battle-tested AI prompt templates for software developers.** 
+**60+ battle-tested AI prompt templates for software developers.**  
 Stop writing prompts from scratch. Start getting results in seconds.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![Prompts](https://img.shields.io/badge/Prompts-11-orange)
@@ -143,10 +143,10 @@ const promptText = extractPrompt(template);
 
 // Fill in your variables
 const ready = fill(promptText, {
- 'PASTE CODE HERE': myCode,
- 'Language/Framework': 'TypeScript/Next.js',
- 'Purpose of this code': 'User authentication middleware',
- 'Any known constraints': 'Must be backward compatible with v2 clients'
+  'PASTE CODE HERE': myCode,
+  'Language/Framework': 'TypeScript/Next.js',
+  'Purpose of this code': 'User authentication middleware',
+  'Any known constraints': 'Must be backward compatible with v2 clients'
 });
 
 // Now send `ready` to your Claude/OpenAI client
@@ -225,7 +225,7 @@ MIT licensed. No vendor lock-in. Works in Claude, GPT-4, and Cursor.
 
 ## License
 
-MIT — free for personal and open source use. 
+MIT — free for personal and open source use.  
 For commercial use (reselling, embedding in products), see the [Premium License on Gumroad](https://srmcguirt.gumroad.com).
 
 ---
