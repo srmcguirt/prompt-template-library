@@ -210,6 +210,19 @@ Found a better prompt? Spotted an improvement? PRs welcome.
 
 ---
 
+
+---
+
+## 💼 Get the Full Version
+
+**[Prompt Template Library — Free / $35 full on Gumroad](https://srmcguirt.gumroad.com/l/prompt-library)**
+
+MIT licensed. No vendor lock-in. Works in Claude, GPT-4, and Cursor.
+
+→ [Full product lineup](https://wireforge.fellwork.workers.dev)
+
+---
+
 ## License
 
 MIT — free for personal and open source use.  
@@ -221,4 +234,4 @@ For commercial use (reselling, embedding in products), see the [Premium License 
 
 Get a free sample prompt + updates when new tools ship:
 
-**→ [srmcguirt.github.io](https://srmcguirt.github.io)**
+**→ [wireforge.fellwork.workers.dev](https://wireforge.fellwork.workers.dev)**
